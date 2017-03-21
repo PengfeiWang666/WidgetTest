@@ -4,4 +4,7 @@
 
 
  ![](https://github.com/PengfeiWang666/WidgetTest/blob/master/WPFWidgetTest/Widget-today/3DTouch.gif)
+ 
+ 
+ 
  ![](https://github.com/PengfeiWang666/WidgetTest/blob/master/WPFWidgetTest/Widget-today/demo.gif)
