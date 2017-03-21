@@ -1,0 +1,15 @@
+use_frameworks!
+
+def share_pods
+    pod 'Masonry'
+end
+
+target 'WidgetTest' do
+  pod 'lottie-ios'
+  share_pods
+
+end
+
+target 'Widget-today' do
+    share_pods
+end
