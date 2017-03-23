@@ -401,7 +401,6 @@
 				TargetAttributes = {
 					35D391A71E781342009571D0 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = ST685X75RG;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
@@ -728,7 +727,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = WidgetTest/WidgetTest.entitlements;
-				DEVELOPMENT_TEAM = ST685X75RG;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/WidgetTest/Classes/Classes",
@@ -747,7 +746,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = WidgetTest/WidgetTest.entitlements;
-				DEVELOPMENT_TEAM = ST685X75RG;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/WidgetTest/Classes/Classes",
