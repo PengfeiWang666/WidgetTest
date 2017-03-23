@@ -1,7 +1,7 @@
 # WidgetTest
 
 
-# If you want to see more details, please click on my bloghttp://www.jianshu.com/p/1a3bd243f77c
+# If you want to see more details, please click on my blog    http://www.jianshu.com/p/1a3bd243f77c
 
 #  If you want to see the demo effect, after you clone the project, please performs the following three steps
 
